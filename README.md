@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi there, I'm Akash Kurdekar 👋<br>🎓 Student | Full Stack Developer | UI/UX Enthusiast<br>🌱 Passionate about web development and solving problems through clean code.<br>🚀 Currently building exciting projects in MERN stack, focusing on modern UI/UX design.<br>💻 Open to freelance opportunities and collaborations!<br><br>🛠️ Tech Stack:<br>Frontend: HTML, CSS, JavaScript, React.js, Styled-components<br>Backend: Node.js, Express.js, MongoDB, MySQL<br>Tools: Git, GitHub, VS Code, Postman, Figma<br><br>🌟 Featured Projects:<br>Knight-bite: A responsive food delivery website with a modern design.<br>Netflix Clone: Built with React and styled-components, mimicking the Netflix UI.<br>Vehicle Service Management System: A full-stack app for managing vehicle services using PHP and MySQL.<br><br>🚀 What I'm Working On:<br>Improving UI/UX for my portfolio to align with modern design trends.<br>Building a full-stack e-commerce site to empower local artisans using the MERN stack.<br>Learning more about Android development.<br><br>📫 How to Reach Me:<br>Email: akashkurdekar39@gmail.com<br>LinkedIn: https://www.linkedin.com/in/akashkurdekar/
+💫 About Me:
+Hi there, I'm Akash Kurdekar 👋
+🎓 Student | Full Stack Developer | UI/UX Enthusiast
+🌱 Passionate about web development and solving problems through clean code.
+🚀 Currently building exciting projects in MERN stack, focusing on modern UI/UX design.
+💻 Open to freelance opportunities and collaborations!
+
+🛠️ Tech Stack:
+Frontend: HTML, CSS, JavaScript, React.js, Styled-components
+Backend: Node.js, Express.js, MongoDB, MySQL
+Tools: Git, GitHub, VS Code, Postman, Figma
+
+🌟 Featured Projects:
+
+Knight-bite: A responsive food delivery website with a modern design.
+Netflix Clone: Built with React and styled-components, mimicking the Netflix UI.
+Vehicle Service Management System: A full-stack app for managing vehicle services using PHP and MySQL.
+Contest Game: A fun contest-like game developed using the MERN stack. GitHub Repo (Add your GitHub link here)
+🚀 What I'm Working On:
+
+Improving UI/UX for my portfolio to align with modern design trends.
+Building a full-stack e-commerce site to empower local artisans using the MERN stack.
+Learning more about Android development.
+📫 How to Reach Me:
+Email: akashkurdekar39@gmail.com
+LinkedIn: linkedin.com/in/akashkurdekar
 
 
 ## 🌐 Socials:
